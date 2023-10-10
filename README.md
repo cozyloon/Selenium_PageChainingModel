@@ -1,2 +1,2 @@
-# Selenium_PageChainingModel
-Sample project for demo on POM and PCM
+# Selenium Page-Chaining-Model 
+Sample selenium project for demo on POM and Singleton pattern using PCM
